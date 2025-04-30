@@ -10,7 +10,7 @@
 <img src="https://github.com/Thelma-DataNerd/web-scraping-projects/blob/main/Web%20Scraping%20Photo.jpg" width="500"/>
 
 ### Overview
-This repository contains a collecction of various web scraping projects implemented using a variety of tools. Each project focuses on extracting data from different websites for various purposes. Tools used for these web scraping projects include Excel, Python with libraries such as requests, BeautifulSoup and Pandas. 
+This repository contains a collection of various web scraping projects implemented using a variety of tools. Each project focuses on extracting data from different websites for various purposes. Tools used for these web scraping tasks include Excel, Python with libraries such as requests, BeautifulSoup and Pandas. 
 
 ---
 ### Jumia Phone Extraction
