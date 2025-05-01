@@ -5,6 +5,7 @@
 - [Jumia Phone Extraction](#jumia-phone-extraction)
 - [Book Products](#book-products)
 - [Hockey Teams](#hockey-teams)
+- [IMBd Top Movies](#imbd-top-movies)
 
 
 
@@ -32,11 +33,19 @@ This repository contains a collection of various web scraping projects implement
 ---
 
 ### Hockey Teams
-- Description: Extracted data from a website containing historical statistics of hockey teams. The dataset includes details such as team name, year, wins, losses e.t.c. across multiple pages (25 pages).
+- Description: Pulled data from a website containing historical statistics of hockey teams. The dataset includes details such as team name, year, wins, losses e.t.c. across multiple pages (25 pages).
 - Tools: Python (requests, beautifulSoup, pandas).
 - Techniques: Looped through and extracted 25 pages of NHL team stats since 1990, and exported the data to excel.
 - Notebook Link: https://github.com/Thelma-DataNerd/web-scraping-projects/blob/main/Hockey%20Data%20Extraction.ipynb
 - Excel Link: https://github.com/Thelma-DataNerd/web-scraping-projects/blob/main/Hockey%20Data%20Extraction.xlsx
+
+---
+
+### IMBd Top Movies
+- Description: Extracted IMDb Top 250 movies to obtain valuable information such as movie titles, year of release, IMDb ratings, number of votes (ratings), movie duration, and content classification (e.g., PG-13, R). The data was collected directly from the IMDb website and organized into a structured format suitable for analysis.
+- Tools: Excel
+- Techniques: Web scraped the data, cleaned and formatted the extracted data using Excel.
+- Excel Link: https://github.com/Thelma-DataNerd/web-scraping-projects/blob/main/IMDb%20Top%20250%20Movies.xlsx
 
 
 
