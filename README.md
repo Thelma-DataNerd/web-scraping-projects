@@ -37,8 +37,8 @@ This repository contains a collection of various web scraping projects implement
 ---
 
 ### Hockey Teams
-
 <img src="https://raw.githubusercontent.com/Thelma-DataNerd/web-scraping-projects/main/Hockey%20Teams%20Web%20Scrap.jpg" width="500"/>
+
 - Description: Pulled data from a website containing historical statistics of hockey teams. The dataset includes details such as team name, year, wins, losses e.t.c. across multiple pages (25 pages).
 - Tools: Python (requests, beautifulSoup, pandas).
 - Techniques: Looped through and extracted 25 pages of NHL team stats since 1990, and exported the data to excel.
